@@ -20,9 +20,13 @@ int main()
     if (np>=60)
         printf("ALUNO APROVADO\n");
     else   
-        printf("ALUNO NAO APROVADO.Insira a nota da prova final:\n");        
+        printf("ALUNO NAO APROVADO\n");
+
+        printf("Insira a nota da prova final:\n");   
         scanf("%f", &pf);
-        mf = ((np+pf)/2);        
+
+        mf = ((np+pf)/2);
+                
         printf("A media final do aluno e: %f\n", mf);
 
         if (mf>=60)
