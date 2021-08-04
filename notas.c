@@ -21,6 +21,7 @@ int main()
         printf("ALUNO APROVADO\n");
     else   
         printf("ALUNO NAO APROVADO\n");
+        
         printf("Insira a nota da prova final:\n");        
         scanf("%f", &pf);
         mf = ((np+pf)/2);        
