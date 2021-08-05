@@ -15,7 +15,7 @@
             "environment": [],
             "externalConsole": false,
             "MIMode": "gdb",
-            "miDebuggerPath": "/path/to/gdb",
+            "miDebuggerPath": "",
             "setupCommands": [
                 {
                     "description": "Habilitar a reformatação automática para gdb",
