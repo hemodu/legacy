@@ -20,7 +20,8 @@ int main()
     if (np>=60)
         printf("ALUNO APROVADO\n");
     else   
-        {printf("ALUNO NAO APROVADO\n");
+        {
+        printf("ALUNO NAO APROVADO\n");
 
         printf("Insira a nota da prova final:\n");   
         scanf("%f", &pf);
@@ -32,7 +33,8 @@ int main()
         if (mf>=60)
         printf("ALUNO APROVADO APOS PROVA FINAL");
         else
-        printf("ALUNO REPROVADO APOS PROVA FINAL");}
+        printf("ALUNO REPROVADO APOS PROVA FINAL");
+        }
 
 
 }
