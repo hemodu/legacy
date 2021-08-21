@@ -1,0 +1,5 @@
+bola 10 30
+gato 30 30
+mochila 5 15
+melancia 1 90
+helicoptero 8 45

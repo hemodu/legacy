@@ -1,0 +1,5 @@
+Joao 90.00
+Maria 85.00
+Marcelo 40.00
+Cleide 55.00
+Lindolfo 80.00

@@ -1,0 +1,5 @@
+Lucio 20 20 20 20
+Jussara 30 20 10 10
+Griselda 25 20 10 15
+Cleiton 10 20 40 25
+Alex 25 25 10 15

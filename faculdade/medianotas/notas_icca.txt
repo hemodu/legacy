@@ -1,0 +1,5 @@
+Joao 10 20 30 30
+Maria 25 40 10 10
+Marcelo 10 10 10 10
+Cleide 15 15 20 05
+Lindolfo 20 20 20 20
